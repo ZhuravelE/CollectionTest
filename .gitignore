@@ -1,0 +1,5 @@
+# Default ignored files
+/CollectionTest.iws
+
+# Project exclude paths
+/target/
